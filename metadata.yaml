@@ -1,0 +1,42 @@
+_repo: La-firmao-de-la-kato-kiu-pilkludas_68879
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Benoit, Paul
+    gutenberg_agent_id: '54993'
+    url: http://www.gutenberg.org/2009/agents/54993
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, Honore de
+    - Saint-Aubin, Horace de
+    - De Balzac, Honoré
+    - Balzac, H. de (Honoré de)
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2022-08-31'
+identifiers:
+  gutenberg: '68879'
+language: eo
+pgterms:marc904: https://dlibra.kul.pl/publication/51948
+pgterms:marc905: 20210305101502balzac
+pgterms:marc906: '1924'
+pgterms:marc907: de
+production_note: Andrew Sly, Miroslav Malovec and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (his file was produced from images generously made
+  available by Biblioteka Cyfrowa KUL.)
+publication_note: Germany :Ferdinand Hirt & Sohn,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La firmao de la kato kiu pilkludas
+url: http://www.gutenberg.org/ebooks/68879
